@@ -68,7 +68,8 @@
 ## 8.実装
 - WAF：
 - PHP：Laravel & Laravel/ui
-  - Laravel基礎：https://coinbaby8.com/laravel-php-dekirukoto.html
+  - Laravel基礎
+    > https://coinbaby8.com/laravel-php-dekirukoto.html
   - (*CSS：Bootstrap)
 - JavaScript：React
   - Front End：Node.js/npm、webpack、babel
@@ -76,10 +77,10 @@
 ### MVC
 #### Model作成
 - ORM：Laravel：Eloquent
- > https://corporate.inter-edu.com/developper/1458
+  > https://corporate.inter-edu.com/developper/1458
 #### View作成
 - Webサーバ設定：Laravel
- > https://qiita.com/sskmy1024y/items/c2e434941400bd4ee82c
+  > https://qiita.com/sskmy1024y/items/c2e434941400bd4ee82c
 #### フォント
 - FontAwesome
 　> https://fontawesome.com/
@@ -117,7 +118,7 @@
 - ソラレピ
 - シェフごはん
 - 食リズム
-　> https://smartlog.jp/170505
+   > https://smartlog.jp/170505
 #### Company：
 - いまNULL
 - 伸びしろ
@@ -143,7 +144,7 @@
 ## 10.運用
 ### パフォーマンスアップ
 - Google PageSpeed Insight
-　> https://developers.google.com/speed/pagespeed/insights/?hl=ja
+  > https://developers.google.com/speed/pagespeed/insights/?hl=ja
 - ベンチマークテスト
 　> ApacheBench http://dev.classmethod.jp/tool/ab-tutorial/
 - サーバー構成の見直し、分散環境の構築
@@ -157,4 +158,4 @@
 
 ## 参考資料：
 - Git運用
- > https://qiita.com/gumimin/items/63dcb36d4730213bd63a
+  > https://qiita.com/gumimin/items/63dcb36d4730213bd63a
