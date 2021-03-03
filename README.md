@@ -1,14 +1,11 @@
-# 目的：
-初回ポートフォリオを作成する
+# 目的：初回ポートフォリオを作成する
 
-## メンバー：
-teeetsuya
+## メンバー：teeetsuya
 
-### 1.哲学
-#### 好きなことを楽しむ、無駄なものを省く
+## 1.哲学 : 好きなことを楽しむ、無駄なものを省く
 
-### 2.習慣分析・課題・アイデア
-#### 2-1. 
+## 2.習慣分析・課題・アイデア
+### 2-1. 
 - 料理と美味いものを食べるのが好き
 - ただ、最近太ってきたから対策が必要
 - 食費が嵩んでる
@@ -38,79 +35,76 @@ teeetsuya
   - PULS1：食材は名前が多いので、曖昧検索できるようにしたい
   - ほか
 
-### 3.テーマ
+## 3.テーマ
 食事、習慣、時短、節約、ロス削減、フードロス・SDGs、在庫管理
 
-### 4.コンセプト
+## 4.コンセプト
 美味いものを毎日簡単に無駄なく作って好きなことを楽しむ
-
-##### Deli
+### Deli
 - 食事：おいしい食事 = Fine Food = Delicatessen
 - 美味：おいしい料理 = Delicious
 - 良質：間違いない結果(食事)を届けられる = Deliverable
 - 最適：買い物( = Delivery)を無駄なく
-
-##### op
+### op
 - 公開：情報がオープン = Open
 - 楽観：美味いものを安心して、時間に追われることなく = Optimizm
 - 選択：食事の選択肢が多い = Optional
 - 最適：食事を簡単に、食材を無駄なく = Optimization
 
-### 5.名前
-デリオプ：Deliop
+## 5.名前 デリオプ：Deliop
 
-### 6.デザイン
+## 6.デザイン
 温かみがあり食欲の湧く暖色を中心にシンプルなデザイン
 
-### 7.内部設計
-#### CRUD操作
-#### リソース設計
-##### ER図　：　Entity Relationship Deagram
+## 7.内部設計
+- CRUD操作
+- リソース設計
+- ER図　：　Entity Relationship Deagram
    > https://it-koala.com/entity-relationship-diagram-1897#ER　
-##### クラス図
+- クラス図
 　 > https://cacoo.com/ja/blog/how-to-write-class-diagram/#:~:text=%E3%82%AF%E3%83%A9%E3%82%B9%E5%9B%B3%E3%81%AFUML%EF%BC%88%E7%B5%B1%E4%B8%80,%E5%9B%B3%E3%80%8D%E3%81%A7%E3%81%82%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7%E3%81%99%E3%80%82
-##### URI設計：
-- URI：Uniform Resource Identifier 
- > https://ferret-plus.com/4637
-- API設計：Application Program Interface
+- URI設計：
+  - URI：Uniform Resource Identifier 
+    > https://ferret-plus.com/4637
+  - API設計：Application Program Interface
   
-### 8.実装
-#### WAF：
-##### PHP：Laravel & Laravel/ui
-- Laravel基礎：https://coinbaby8.com/laravel-php-dekirukoto.html
-- (*CSS：Bootstrap)
+## 8.実装
+- WAF：
+- PHP：Laravel & Laravel/ui
+  - Laravel基礎：https://coinbaby8.com/laravel-php-dekirukoto.html
+  - (*CSS：Bootstrap)
 - JavaScript：React
-- Front End：Node.js/npm、webpack、babel
-  > https://coinbaby8.com/laravel-frontend.html
-#### MVC
-##### Model作成
+  - Front End：Node.js/npm、webpack、babel
+    > https://coinbaby8.com/laravel-frontend.html
+### MVC
+#### Model作成
 - ORM：Laravel：Eloquent
  > https://corporate.inter-edu.com/developper/1458
-##### View作成
+#### View作成
 - Webサーバ設定：Laravel
  > https://qiita.com/sskmy1024y/items/c2e434941400bd4ee82c
-##### フォント
+#### フォント
 - FontAwesome
 　> https://fontawesome.com/
 
-### 9.マーケティング
-##### PEST
+## 9.マーケティング
+### PEST
 - Poiltics：栄養、人材、科学的根拠、SDGs、アレルギー、ハラール、脱炭素、廃プラ、フードロス
 　> https://www.mhlw.go.jp/content/000587161.pdf
-##### Economy：2人以上世帯食費約950,000円/年
+### Economy：2人以上世帯食費約950,000円/年
 　> https://www.stat.go.jp/data/kakei/longtime/index.html#time
-##### Society：健康志向、簡便指向、美食指向、経済指向
+### Society：健康志向、簡便指向、美食指向、経済指向
 　> https://honote.macromill.com/report/20200709/
-##### Technology：スマートキッチン、デリバリーサービス、ウェアラブルなど
+### Technology：スマートキッチン、デリバリーサービス、ウェアラブルなど
 
-####3C
-##### Customer：
+###3C
+#### Customer：
 - 夫婦共働き20代後半
 - 健康節約指向
 - 時間ない
 - 実家が遠い
 - 自分の時間と二人の時間も大切にしたい
-##### Competitor：
+#### Competitor：
 - クックパッド
 - ミーニュー
 - Eレシピ
@@ -127,12 +121,12 @@ teeetsuya
 - シェフごはん
 - 食リズム
 　> https://smartlog.jp/170505
-##### Company：
+#### Company：
 - いまNULL
 - 伸びしろ
-#### STP：
-##### 細分化：Segmentation
-##### ターゲット：Targeting
+### STP：
+#### 細分化：Segmentation
+#### ターゲット：Targeting
 - 人口動態軸：20台半ば〜30代半ば、男女、既婚、2人家族
 　> 夫婦世帯数増加傾向：約1,300万世帯／全国
 　> https://news.yahoo.co.jp/byline/fuwaraizo/20190726-00134170/
@@ -140,21 +134,17 @@ teeetsuya
 - 社会心理学軸：平日フルタイムワーク、子作り検討、節約指向、時折贅沢したくなる
 - 行動軸：必要なタイミングで必要なものを購入、預金は定額管理、余剰金額は預金・投資に充てる
 - マーケティング手法：集中型
-##### ポジション：Positioning
+#### ポジション：Positioning
 - X軸：コスト
 - Y軸：使い勝手（指標：品数、UI/UXを数値化)
-#### 4P
-##### Product：
-投稿サイト
-##### Price：
-Free
-##### Place：
-Web
-##### Promotion：
-Twitter、ブログ(ゆくゆく)、Wantedly(転活用)
+### 4P
+- Product： 投稿サイト
+- Price： Free
+- Place： Web
+- Promotion：Twitter、ブログ(ゆくゆく)、Wantedly(転活用)
 
-### 10.運用
-#### パフォーマンスアップ
+## 10.運用
+### パフォーマンスアップ
 - Google PageSpeed Insight
 　> https://developers.google.com/speed/pagespeed/insights/?hl=ja
 - ベンチマークテスト
@@ -168,6 +158,6 @@ Twitter、ブログ(ゆくゆく)、Wantedly(転活用)
 - キャッシュサーバ
 - CDN
 
-#### 参考資料：
+## 参考資料：
 - Git運用
  > https://qiita.com/gumimin/items/63dcb36d4730213bd63a
