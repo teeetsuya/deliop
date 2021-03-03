@@ -57,9 +57,9 @@
 - CRUD操作
 - リソース設計
 - ER図　：　Entity Relationship Deagram
-   > https://it-koala.com/entity-relationship-diagram-1897#ER　
+  > https://it-koala.com/entity-relationship-diagram-1897#ER　
 - クラス図
-　 > https://cacoo.com/ja/blog/how-to-write-class-diagram/#:~:text=%E3%82%AF%E3%83%A9%E3%82%B9%E5%9B%B3%E3%81%AFUML%EF%BC%88%E7%B5%B1%E4%B8%80,%E5%9B%B3%E3%80%8D%E3%81%A7%E3%81%82%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7%E3%81%99%E3%80%82
+  > https://cacoo.com/ja/blog/how-to-write-class-diagram/#:~:text=%E3%82%AF%E3%83%A9%E3%82%B9%E5%9B%B3%E3%81%AFUML%EF%BC%88%E7%B5%B1%E4%B8%80,%E5%9B%B3%E3%80%8D%E3%81%A7%E3%81%82%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7%E3%81%99%E3%80%82
 - URI設計：
   - URI：Uniform Resource Identifier 
     > https://ferret-plus.com/4637
@@ -83,7 +83,7 @@
   > https://qiita.com/sskmy1024y/items/c2e434941400bd4ee82c
 #### フォント
 - FontAwesome
-　> https://fontawesome.com/
+  > https://fontawesome.com/
 
 ## 9.マーケティング
 ### PEST
@@ -146,12 +146,13 @@
 - Google PageSpeed Insight
   > https://developers.google.com/speed/pagespeed/insights/?hl=ja
 - ベンチマークテスト
-　> ApacheBench http://dev.classmethod.jp/tool/ab-tutorial/
+  - ApacheBench
+    > http://dev.classmethod.jp/tool/ab-tutorial/
 - サーバー構成の見直し、分散環境の構築
 - フロントエンドWebサーバ
 　- HTMLやJSON等の静的ページの配信担当。
 　- 動的な配信が必要だったらアプリケーションサーバに渡す。
-　　> nginxがおすすめ。高速かつ設定記述がシンプル。
+    > nginxがおすすめ。高速かつ設定記述がシンプル。
 - アプリケーションサーバ
 - キャッシュサーバ
 - CDN
